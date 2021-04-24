@@ -1,0 +1,60 @@
+Today I will demonstrate you why is impossible to reproduce the quantum mechanical result 
+using local hidden variables with the bell test experiment.
+And I will do so using my bell test simulation program.
+
+We can use different formulas to create a plan that both entangled particles must follow.
+Then we executed that plan many times using different random angles of measurement.
+Finally we observe the result after many experiments and compare it to the quantum mechanics result.
+
+If you don't know about the idea of quantum entanglement, I encourage you to watch other video's about that first.
+In thisa video focus on explaining the bell test results.
+When we measure the spin of 2 entangled particles, their correlation is expressed by the squared cosine of half the angle
+of measurement between the particles.
+This means that when both particles are measured under the same angle, they always are completely anti-correlated and
+thus have opposite values.
+Therefore, we only need one formula for the plans at detector A en B. 
+The plan at detector B is always exactly opposite to the plan at detector A.
+Furthermore, we have only one variable: the angle of measurement at the detector; 
+that is the only thing we can change locally.
+
+To get an understanding of the results of the application, let's first look at a plan where we
+just pick a random value at each detector.
+After many experiments we will see a graph with a correlation of zero at all angles:
+the values at both detectors are sometimes the same, sometimes different, so there is no correlation or anti-correlation.
+
+Now let's take a look at the plan where we use the cosine of half the angle, like the QM formula.
+Because we can only apply it to the angle of measurement at side A or B, but not to both sides,
+we cannot achieve the correlation of QM.
+
+We can use a modulo operator to create spikes at certain angles.
+
+We can even create funny patterns, however we can never reproduce the same graph that QM yields.
+
+With this button we let the computer swap 360.000 samples, until the result resembles QM as much as possible.
+It turns out that we obtain the graph that represents this formula:
+This means: show a value of 1 at A for every angle smaller than 180 degrees and show a value of 0 for every angle
+greater than 180 degress. The value at B is than 0 smaller at 180 degress and 1 when greater than 180 degrees.
+
+So why we cannot obtain the correlation of QM?
+Let's take a look at the graph where the resulting angle is close to zero.
+Here the graph is almost horizontal. This means that even though the angle changes quite a bit,
+the correlation stays almost the same.
+Let's say the with an angle of 1 degree, the correlation changes with only 0.1%
+This means that out of every 1000 measurements, we now measure 1 time the same value instead of different values.
+This is valid when measuring at 0 degrees on A and 1 degree on B, but also when measuring at 4 degrees on A and 5 degrees
+on B, for example. Because the resulting angle is 1 in both cases.
+So, if only 1 value in 1000 can change every 1 degree, no more that 2 values can change when we take 2 times the amount of degrees.
+This is exactly what John Steward Bell realised.
+
+Here is another way of looking at it:
+Observe the are under the graph. This represent an amount of different and the same values.
+The QM result is both more different and the same than the HV result.
+This is not possible to achieve with a plan, that yields either a different of a same result.
+
+The only way to realise the QM result is when the value at A sometimes changes when a different angle is picked at B.
+How this is achieved, faster than light, is one of the greatest mysteries of today's science.
+
+This concludes my explanation.
+If you want to download this program, or the source code, please look at the links in the description.
+
+

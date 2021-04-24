@@ -1,0 +1,25 @@
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\bin\Debug\BellTest.exe
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\bin\Debug\BellTest.pdb
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.exe
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.pdb
+c:\users\peter\documents\visual studio 2010\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.Form1.resources
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.exe
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.pdb
+C:\Projects\BellTest\BellTest\bin\Debug\BellTest.exe
+C:\Projects\BellTest\BellTest\bin\Debug\BellTest.pdb
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csprojResolveAssemblyReference.cache
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.Form1.resources
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.Properties.Resources.resources
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csproj.GenerateResource.Cache
+C:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csproj.CoreCompileInputs.cache
+E:\Projects\BellTest\BellTest\bin\Debug\BellTest.exe
+E:\Projects\BellTest\BellTest\bin\Debug\BellTest.pdb
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.Properties.Resources.resources
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csproj.GenerateResource.cache
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csproj.CoreCompileInputs.cache
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.exe
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.pdb
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.FormMain.resources
+E:\Projects\BellTest\BellTest\obj\x86\Debug\BellTest.csprojAssemblyReference.cache
